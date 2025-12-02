@@ -14,5 +14,5 @@ You can also download the `exe` file to using it directly here. <a href="Napoleo
 
 ### References
 
-- Book: NAPOLEON'S ORACULUM, or BOOK OF FATE
+- Book: <a href="https://www.amazon.com/Napoleons-Book-Fate-Oraculum/dp/1578988586">NAPOLEON'S ORACULUM, or BOOK OF FATE</a>
 - Blog: https://www.knongsrok.com/archives/92950
